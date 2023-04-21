@@ -1,0 +1,15 @@
+{
+  "name": "three-js-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YIRer/three-js-tutorial.git",
+  "author": "taejun.park <taejun.park@yanolja.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/three": "^0.150.2",
+    "vite": "^4.3.1"
+  },
+  "dependencies": {
+    "three": "^0.151.3"
+  }
+}
